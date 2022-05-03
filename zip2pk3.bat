@@ -1,1 +1,1 @@
-REN BrutalOblige.zip BrutalOblige.pk3
+REN BrutalObAddon.zip BrutalObAddon.pk3

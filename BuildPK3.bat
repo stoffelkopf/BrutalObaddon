@@ -1,4 +1,4 @@
-powershell Compress-Archive -path data, games, modules, credits.txt, GPL.txt -destination BrutalObAddon.zip
+powershell Compress-Archive -path data, modules, credits.txt, GPL.txt, README.md -destination BrutalObAddon.zip
 @ echo off
 REN BrutalObAddon.zip BrutalObAddon.pk3
 
