@@ -1,6 +1,8 @@
 # Brutal ObAddon
 **The curently supported version of Brutal Doom is V21**
 
+Check out my other Oblige Addon [BrutalOblige](https://github.com/stoffelkopf/BrutalOblige). It has more features but its **not compatible** with ObAddon.
+
 **Requirements:**
 
 * Oblige / Onlige64 Version 7.70 (For those of you who don't know [Oblige](http://oblige.sourceforge.net/) is a random map generator for Doom. It's really good and you should check it out)
